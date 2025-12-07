@@ -199,7 +199,7 @@ Key files in this repo:
    ```bash
    git clone <this-repo-url>
    cd Crypto-Market-Data-Capstone
-````
+
 
 2. **Create and activate a virtual environment (recommended)**
 
